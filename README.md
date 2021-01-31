@@ -7,7 +7,8 @@
 # Stephan Hino
 <sub>*Analista Totvs Protheus* na Ligthsweet</sub>
 
-Experiência em linguagem ADVPL, arquitetura Protheus, módulos financeiro, estoque e custos, faturamento e wms. Estudante de Data Science.
+Estudante de Data Science.
+Experiência em linguagem ADVPL, arquitetura Protheus, módulos financeiro, estoque e custos, faturamento e wms.
 
 <!--**Background in:** Advpl, Python.-->
 
