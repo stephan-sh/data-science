@@ -7,21 +7,18 @@
 # Stephan Hino
 <sub>*Analista Totvs Protheus* na Ligthsweet</sub>
 
-Estudante de Data Science.
-Experiência em linguagem ADVPL, arquitetura Protheus, módulos financeiro, estoque e custos, faturamento e wms.
+Estudante de Data Science.<br>
+Conhecimento na arquitetura do ERP Protheus e diversos módulos. Experiência em linguagem ADVPL por 12 anos. 
 
 <!--**Background in:** Advpl, Python.-->
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/stephan-hino)
+* [Medium](https://medium.com/@stephan.hino)
 
-<!--
 ## Projetos:
-Veja os tutoriais publicados:
 
+* **Análise de dados do Airbnb -Tokyo: https://bit.ly/3a4AzbG**
+<!--
 * **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
 -->
----
-
-
